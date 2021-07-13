@@ -85,6 +85,7 @@ top: 153px;
     grid-row-gap: 30px;
     grid-column-gap: 30px;
     
+    
 }
 .player-img{
     position: static;
@@ -95,6 +96,7 @@ top: 0px
 }
 .player-data{
     box-shadow: rgb(97, 97, 97)0px 0px 15px;
+    
    
 }
 .player-data>img{
@@ -110,6 +112,7 @@ top: 0px
 .player-data p{
     margin-left: 12px;
    margin-top: 4px;
+   padding-bottom: 50px;
    font-weight: 200;
 }
 .footer-img{
